@@ -32,7 +32,7 @@ Faço curso técnico em Desenvolvimento de Sistemas na instituição Etec Dra. R
 <br>
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuanHenrique51}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Leandro-Santana013}/count.svg" /></p> 
 <br>
 </div>
 <br>
